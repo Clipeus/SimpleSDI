@@ -1,0 +1,3 @@
+[submodule "Yaswl"]
+	path = Yaswl
+	url = https://github.com/Clipeus/Yaswl.git

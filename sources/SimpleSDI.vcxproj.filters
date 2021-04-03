@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Yaswl">
+      <UniqueIdentifier>{b3cf0eb7-31fa-4682-9e86-7706d344adef}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleSDI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AboutDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleSDIApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleSDIWnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\Dialog.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\Misc.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\Registry.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\WinApp.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\Window.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\MainWindow.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\OwnerDrawMenuImpl.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\ToolBar.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\WindowSubclass.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+    <ClInclude Include="TextEncoding.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Yaswl\WindowEx.h">
+      <Filter>Yaswl</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SimpleSDI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AboutDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleSDIApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleSDIWnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextEncoding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SimpleSDI.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SimpleSDI.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Copy_16x16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Cut_16x16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Delete_16x16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Help_16x16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\New_16x16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Open_16x16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Paste_16x16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Save_16x16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\SimpleSDI.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Undo_16x16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
