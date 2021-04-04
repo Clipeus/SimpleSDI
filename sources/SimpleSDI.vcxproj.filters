@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Yaswl">
-      <UniqueIdentifier>{b3cf0eb7-31fa-4682-9e86-7706d344adef}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -42,38 +39,8 @@
     <ClInclude Include="SimpleSDIWnd.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Yaswl\Dialog.h">
-      <Filter>Yaswl</Filter>
-    </ClInclude>
-    <ClInclude Include="Yaswl\Misc.h">
-      <Filter>Yaswl</Filter>
-    </ClInclude>
-    <ClInclude Include="Yaswl\Registry.h">
-      <Filter>Yaswl</Filter>
-    </ClInclude>
-    <ClInclude Include="Yaswl\WinApp.h">
-      <Filter>Yaswl</Filter>
-    </ClInclude>
-    <ClInclude Include="Yaswl\Window.h">
-      <Filter>Yaswl</Filter>
-    </ClInclude>
-    <ClInclude Include="Yaswl\MainWindow.h">
-      <Filter>Yaswl</Filter>
-    </ClInclude>
-    <ClInclude Include="Yaswl\OwnerDrawMenuImpl.h">
-      <Filter>Yaswl</Filter>
-    </ClInclude>
-    <ClInclude Include="Yaswl\ToolBar.h">
-      <Filter>Yaswl</Filter>
-    </ClInclude>
-    <ClInclude Include="Yaswl\WindowSubclass.h">
-      <Filter>Yaswl</Filter>
-    </ClInclude>
     <ClInclude Include="TextEncoding.h">
       <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Yaswl\WindowEx.h">
-      <Filter>Yaswl</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

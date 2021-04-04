@@ -190,16 +190,6 @@
     <ClInclude Include="SimpleSDIWnd.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="TextEncoding.h" />
-    <ClInclude Include="Yaswl\Dialog.h" />
-    <ClInclude Include="Yaswl\MainWindow.h" />
-    <ClInclude Include="Yaswl\Misc.h" />
-    <ClInclude Include="Yaswl\OwnerDrawMenuImpl.h" />
-    <ClInclude Include="Yaswl\Registry.h" />
-    <ClInclude Include="Yaswl\ToolBar.h" />
-    <ClInclude Include="Yaswl\WinApp.h" />
-    <ClInclude Include="Yaswl\Window.h" />
-    <ClInclude Include="Yaswl\WindowEx.h" />
-    <ClInclude Include="Yaswl\WindowSubclass.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AboutDlg.cpp" />
